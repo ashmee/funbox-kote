@@ -1,0 +1,26 @@
+{
+  "name": "funbox-kote",
+  "version": "1.0.0",
+  "description": "funbox test task",
+  "main": "index.tsx",
+  "scripts": {
+    "start": "parcel src/index.html --open",
+    "build": "parcel build src/index.html --no-source-maps",
+    "test": "echo \"sorry, no tests yet!\" && exit 1"
+  },
+  "author": "ashmeee",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  },
+  "devDependencies": {
+    "@types/classnames": "^2.2.10",
+    "@types/react": "^16.9.53",
+    "@types/react-dom": "^16.9.8",
+    "classnames": "^2.2.6",
+    "parcel-bundler": "^1.12.4",
+    "prettier": "^1.17.0",
+    "typescript": "^4.0.3"
+  }
+}
