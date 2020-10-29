@@ -35,16 +35,16 @@
 
 ### Parcel
 
--[Parcel](https://parceljs.org/) for bundling in prod and developing via ```npm start```and getting automatic refresh in the browser whenever you update a file.
+- [Parcel](https://parceljs.org/) for bundling in prod and developing via ```npm start```and getting automatic refresh in the browser whenever you update a file.
 
 ### glyphhanger 
 
 ```not commited in current repo, but i used it for font optimisation```
 
--[glyphhanger](https://github.com/filamentgroup/glyphhanger) for Exo2 font manual subsetting
+- [glyphhanger](https://github.com/filamentgroup/glyphhanger) for Exo2 font manual subsetting
 
 ### squoosh 
 
 ```not commited in current repo, but i used it for font optimisation```
 
--[squoosh app](https://squoosh.app/) for image (*.png) manual optimization 
+- [squoosh app](https://squoosh.app/) for image (*.png) manual optimization 
