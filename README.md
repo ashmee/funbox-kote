@@ -1,6 +1,8 @@
 # funbox-kote
  Funbox [test task](https://funbox.ru/vacancies/html-css-js-developer)
 
+ [Требования](REQUIREMENTS.md) к задаче
+
 ## Install
 
     $ git clone https://github.com/ashmee/funbox-kote.git
