@@ -2,6 +2,12 @@
  Funbox [test task](https://funbox.ru/vacancies/html-css-js-developer)
 
  [Требования](REQUIREMENTS.md) к задаче
+ 
+Задание залил на хостинг гугл firebase
+
+Посмотреть можно тут https://funbox-kote.web.app
+
+При каждой перезагрузке страницы генерируются три карточки со рандомный информацией
 
 ## Install
 
